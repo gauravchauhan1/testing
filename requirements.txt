@@ -31,7 +31,7 @@ colorlover==0.3.0
 
 cryptography==2.8
 cufflinks==0.17.3
-cupshelpers==1.0
+
 cycler==0.10.0
 dataclasses==0.6
 dbus-python==1.2.16
