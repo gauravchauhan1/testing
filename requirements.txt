@@ -28,7 +28,7 @@ clang==5.0
 Click==7.0
 colorama==0.4.3
 colorlover==0.3.0
-command-not-found==0.3
+
 cryptography==2.8
 cufflinks==0.17.3
 cupshelpers==1.0
